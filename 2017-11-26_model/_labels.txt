@@ -1,0 +1,8 @@
+siegessaeule
+reichstag
+rotesrathaus
+funkturm
+fernsehturm
+berlinerdom
+brandenburgertor
+none
